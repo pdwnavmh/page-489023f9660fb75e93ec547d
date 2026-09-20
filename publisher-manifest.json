@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9f8f89756f8b19eb7281f9c7",
+  "owner": "pdwnavmh",
+  "repo": "page-489023f9660fb75e93ec547d",
+  "title": "Lambda",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "489023f9660fb75e93ec547d",
+      "a": "Lambda",
+      "b": "2027最新官网",
+      "entity": "Lambda",
+      "brand": "Lambda",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "113f62ba3f5890b729a2391b5deada086492646cd0d4a7b4660b2875fd7e7824",
+      "content": {
+        "primary_entity": "Lambda",
+        "keyword1": "Lambda",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_TITLE": "按设备挑客户端",
+          "AI_CLIENTS_INTRO": "Windows、macOS、Android、iOS 与路由器按系统选择对应客户端，订阅链接通用。",
+          "AI_DESCRIPTION": "，Lambda 提供基础版、旗舰版与团队版三档订阅，月流量从 100GB 到 1000GB，设备数从 3 台到 20 台；按年付更划算，适合个人、多设备家庭与小型团队按需选择。",
+          "AI_HERO_SUBTITLE": "Lambda 加速器多端订阅",
+          "AI_HERO_INTRO": "Lambda 是为跨区访问与流媒体加速设计的多端代理服务，按流量和设备数划分基础版、旗舰版与团队版。选套餐时先看每月流量与同时在线设备数量，再确认常用设备，最后导入订阅即可使用。",
+          "AI_VISUAL_TITLE": "Lambda 套餐与设备选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "按流量与设备数灵活订阅",
+          "AI_HIGHLIGHT_3": "多平台客户端配置订阅",
+          "AI_FEATURES_TITLE": "Lambda 订阅特点",
+          "AI_FEATURES_INTRO": "从套餐梯度、设备数量和订阅周期三个角度了解 Lambda 的配置方式。",
+          "AI_FEATURE_TITLE_1": "套餐按需梯度",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 适合单人多设备轻度使用，旗舰版 300GB 适合追剧与游戏，团队版 1000GB 面向多人共享。",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台；先统计手机、电脑与平板数量再选对应档位。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "月付与年付两种周期，年付折算后单月成本更低；长期使用可优先考虑年付方案。",
+          "AI_PLANS_TITLE": "Lambda 套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别为 ¥150、¥350、¥850，按流量与设备数选择。",
+          "AI_GUIDE_TITLE": "Lambda 使用三步",
+          "AI_GUIDE_INTRO": "按选择套餐、确认设备适配、导入订阅的顺序完成配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "对比基础版、旗舰版和团队版的月流量、设备数与价格，确认符合日常使用需求。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "核对操作系统版本与设备数量，确认所选档位能覆盖常用的手机、电脑与平板。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "下载对应客户端，按客户端文档将订阅地址导入，完成后刷新节点并测试连接。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好 Lambda 套餐",
+          "AI_CLOSING_TEXT": "按流量和设备数锁定档位，导入订阅后即可开始使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。按设备数与流量需求选，设备多或流量大时旗舰版与团队版更合适。",
+          "AI_FAQ_ANSWER_2": "登录后获取订阅链接，在对应客户端中选择从剪贴板或链接导入订阅，确认节点列表出现后即可连接。不同系统客户端操作略有差异，按其文档步骤完成即可。",
+          "AI_FAQ_ANSWER_3": "可在路由器上配置订阅并让局域网设备共享，适合家中设备较多的情况。注意路由器客户端对设备并发连接数有限制，选购团队版可获得更高并发支持。",
+          "AI_FAQ_ANSWER_4": "按年付比按月付更划算：基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。如果只是短期测试，可先选按月付费再决定是否转为年付。",
+          "AI_FAQ_ANSWER_5": "旗舰版与团队版优先享受工单响应，团队版还配备专属客户经理。遇到订阅导入或节点连接问题时，提供设备类型与客户端版本可帮助更快定位。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版的主要区别是什么？",
+          "AI_FAQ_QUESTION_2": "如何在不同设备上导入 Lambda 订阅？",
+          "AI_FAQ_QUESTION_3": "路由器上可以使用 Lambda 吗？",
+          "AI_FAQ_QUESTION_4": "按年付费是否比按月付费更划算？",
+          "AI_FAQ_QUESTION_5": "遇到工单问题时如何获得支持？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zhangzhanli35.cn",
+    "host": "zhangzhanli35.cn"
+  },
+  "file_hashes": {
+    "index.html": "0d374422b108bf16aa98fa6a5d774d7e21e70431a312581bd23ad21b721aafe5",
+    "sitemap.xml": "2ff1dd2c01fdbfe30564c19b5842bd78233044fe4cf36b06f20e3b865f8251e5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d86f7d892f99b69f15a8d2486623be109897e784b7f30b4a670ad7f7f0f401df",
+    "robots.txt": "6ba946d0f4b9cb24db2d4dda226c2f6bcf1ef5f4bb0e8096cd29ab5cbbb0ed17",
+    "bc438342514fbd24e3b6ca2ddd482550.txt": "8c3d2bef2803968a5f294ed2d31bb474f506e231620b3cd2f1989ce51ac0887a"
+  },
+  "revision": "b1d577544e1c92918c30a405a29d15990b3358fee7e1740c7a79738f24ba5045"
+}
